@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Innovation COE</title>
+    </head>
+
+    <body>
+        <h1>Welcome to intro to web scraping</h1>
+        <p>web scraping so ez</p>
+        <div>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>Python</li>
+	    <li>gazpacho</li>
+        </div>
+    </body>
+</html>
